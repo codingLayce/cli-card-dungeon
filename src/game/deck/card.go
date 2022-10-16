@@ -1,4 +1,4 @@
-package game
+package deck
 
 type Card struct {
 	ID           int
